@@ -1,6 +1,8 @@
 # Gmod-RPName-Menu
 Addon that gives you a prefix to every jobs you need.
 
+![Screenshot](https://raw.githubusercontent.com/AlteredFancy/Gmod-RPName-Menu/main/screenshot.png)
+
 # Configuration
 Do not forget to edit the configuration files for your own use!
 
